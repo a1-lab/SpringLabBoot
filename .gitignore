@@ -4,3 +4,4 @@ TodoWebApplication/gradle/wrapper/gradle-wrapper.jar
 TodoWebApplication/gradle/wrapper/gradle-wrapper.properties
 TodoWebApplication/gradle/wrapper/gradle-wrapper.jar
 TodoWebApplication/gradlew
+*.jar
