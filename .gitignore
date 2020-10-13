@@ -5,3 +5,6 @@ TodoWebApplication/gradle/wrapper/gradle-wrapper.properties
 TodoWebApplication/gradle/wrapper/gradle-wrapper.jar
 TodoWebApplication/gradlew
 *.jar
+TodoWebApplication/gradle/wrapper/gradle-wrapper.jar
+TodoWebApplication/gradlew.bat
+TodoWebApplication/gradle/wrapper/gradle-wrapper.jar
